@@ -83,7 +83,8 @@ Test the C Program for the desired output.
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 
 
-    ![image](https://github.com/swathisiva212/Linux-Process-API-fork-wait-exec/assets/155249892/38fd62f4-5a09-4522-90f3-73042c356528)
+   ![image](https://github.com/swathisiva212/Linux-Process-API-fork-wait-exec/assets/155249892/9d8c52af-bb12-47e0-81e2-a7ac33e4eab5)
+ 
     
 
 
